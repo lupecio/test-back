@@ -6,7 +6,7 @@
 
 *Esse exercício é uma oportunidade de mostrar suas habilidades, procure
 completá-lo da melhor maneira possível, atendendo aos requisitos necessários.
-Uma vez finalizado você deve submeter seu código em um repositório público no Github e enviar o link para o email: lupecio@dropull.gg.
+Uma vez finalizado você deve submeter seu código em um repositório público no Github e enviar o link para o email: lupecio@dropull.gg.*
 
 ***Caso não consiga completar todo o exercício até a data solicitada, envie
 parcialmente seu código pois iremos avaliar mesmo assim.***
