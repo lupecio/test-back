@@ -23,10 +23,11 @@ Seu desafio é criar uma api para criar e listar assets e NFTs.
     - Nome
     - Descrição
     - Imagem
-    - Obs: Cada asset deve possuir uma referência IPFS, para criar a referência deve seguir a documentação [https://docs.pinata.cloud/](https://docs.pinata.cloud/).
+    - Obs: Cada asset deve possuir uma referência IPFS, para criar a referência deve seguir a documentação [https://docs.pinata.cloud/](https://docs.pinata.cloud/), você deve salvar o token IPFS gerado no asset.
 - Endpoint para criar NFT, informando os seguintes dados:
     - Quantidade de NFTs
     - Asset
+    - Obs: Você deve gerar um número de NFTs baseado na quantidade informada. Ex: Caso seja informado a quantidade de nfts igual a 2, devem ser gerados 2 NFTs           vinculados ao asset.
 - Endpoint para listar os assets.
 - Endpoint para listar os NFTs.
 
